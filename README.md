@@ -6,6 +6,14 @@
 
 ## 内容
 
+### Swizzle
+
+n. 鸡尾酒
+
+yarn run swizzle @docusaurus/theme-classic prism-include-languages
+
+将原本的内容踢出去来，转为自定义文件。就好像自己调制鸡尾酒。（猜的）
+
 ### Propagates
 
 v 传播
